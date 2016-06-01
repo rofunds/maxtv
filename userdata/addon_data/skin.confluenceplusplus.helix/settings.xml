@@ -66,9 +66,9 @@
     <setting id="ProgramAddonSet.2.Label" type="string">Icefilms</setting>
     <setting id="ProgramAddonSet.2.icon" type="string">/home/osmc/.kodi/addons/plugin.video.icefilms/icon.png</setting>
     <setting id="ProgramAddonSet.2.Path" type="string">RunAddon(plugin.video.icefilms)</setting>
-    <setting id="ProgramAddonSet.3.Label" type="string">1Channel</setting>
-    <setting id="ProgramAddonSet.3.icon" type="string">/home/osmc/.kodi/addons/1Channel-master/icon.png</setting>
-    <setting id="ProgramAddonSet.3.Path" type="string">RunAddon(plugin.video.1channel)</setting>
+    <setting id="ProgramAddonSet.3.Label" type="string">[COLOR blue]T[/COLOR]itan</setting>
+    <setting id="ProgramAddonSet.3.icon" type="string">/home/osmc/.kodi/addons/plugin.video.titan/icon.png</setting>
+    <setting id="ProgramAddonSet.3.Path" type="string">RunAddon(plugin.video.titan)</setting>
     <setting id="ProgramAddonSet.4.Label" type="string">MaximumTv</setting>
     <setting id="ProgramAddonSet.4.icon" type="string">/usr/share/kodi/addons/service.cloudword.settings/icon.png</setting>
     <setting id="ProgramAddonSet.4.Path" type="string">RunAddon(service.cloudword.settings)</setting>
@@ -102,7 +102,7 @@
     <setting id="AppAddonSet.7.Label" type="string"></setting>
     <setting id="AppAddonSet.7.icon" type="string"></setting>
     <setting id="AppAddonSet.7.Path" type="string"></setting>
-    <setting id="UsrSelectAddon" type="string">plugin.video.1channel</setting>
+    <setting id="UsrSelectAddon" type="string">plugin.video.titan</setting>
     <setting id="Startup_Playlist_Path" type="string"></setting>
     <setting id="LyricScript_Path" type="string"></setting>
     <setting id="Home_Custom_Back_TV_Folder" type="string"></setting>
@@ -117,9 +117,9 @@
     <setting id="MusicAddonSet.2.Label" type="string">Movie Hut</setting>
     <setting id="MusicAddonSet.2.icon" type="string">/home/osmc/.kodi/addons/plugin.video.moviehut/icon.png</setting>
     <setting id="MusicAddonSet.2.Path" type="string">RunAddon(plugin.video.moviehut)</setting>
-    <setting id="MusicAddonSet.3.Label" type="string">MP3 Streams</setting>
-    <setting id="MusicAddonSet.3.icon" type="string">/home/osmc/.kodi/addons/plugin.audio.mp3streams/icon.png</setting>
-    <setting id="MusicAddonSet.3.Path" type="string">RunAddon(plugin.audio.mp3streams)</setting>
+    <setting id="MusicAddonSet.3.Label" type="string">XBMC MP3 addon</setting>
+    <setting id="MusicAddonSet.3.icon" type="string">/home/osmc/.kodi/addons/plugin.audio.XBMCmp3/icon.png</setting>
+    <setting id="MusicAddonSet.3.Path" type="string">RunAddon(plugin.audio.XBMCmp3)</setting>
     <setting id="MusicAddonSet.4.Label" type="string">Pro Sport</setting>
     <setting id="MusicAddonSet.4.icon" type="string">/home/osmc/.kodi/addons/plugin.video.prosport/icon.png</setting>
     <setting id="PictureAddonSet.5.icon" type="string">/home/osmc/.kodi/addons/plugin.video.Stallion.IPTV.2.5/icon.png</setting>
